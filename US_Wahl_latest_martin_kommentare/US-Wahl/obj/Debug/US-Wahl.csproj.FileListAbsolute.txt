@@ -1,0 +1,6 @@
+C:\Users\Administrator\Source\Repos\US_Wahl_latest\US-Wahl\bin\Debug\US-Wahl.exe.config
+C:\Users\Administrator\Source\Repos\US_Wahl_latest\US-Wahl\bin\Debug\US-Wahl.exe
+C:\Users\Administrator\Source\Repos\US_Wahl_latest\US-Wahl\bin\Debug\US-Wahl.pdb
+C:\Users\Administrator\Source\Repos\US_Wahl_latest\US-Wahl\obj\Debug\US-Wahl.exe
+C:\Users\Administrator\Source\Repos\US_Wahl_latest\US-Wahl\obj\Debug\US-Wahl.pdb
+C:\Users\Administrator\Source\Repos\US_Wahl_latest\US-Wahl\obj\Debug\US-Wahl.csprojAssemblyReference.cache
